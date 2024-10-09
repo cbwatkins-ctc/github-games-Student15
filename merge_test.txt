@@ -2,3 +2,7 @@ Merge test file *** B Change
 First change to merge test file  *** B Change
  *** B Change
  *** B Change
+Merge test file *** A Change
+First change to merge test file *** A Change 
+*** A Change
+*** A Change
