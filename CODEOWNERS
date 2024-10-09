@@ -1,0 +1,7 @@
+# This is a comment
+# Pattern               Code Owner(s)
+
+*                      @global-owner    # All files in the repository
+*.js                   @frontend-team   # All JavaScript files
+/docs/                 @docs-team
+config.ini             @config-team
