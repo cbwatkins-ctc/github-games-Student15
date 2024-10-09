@@ -1,2 +1,4 @@
-Merge test file 
-First change to merge test file 
+Merge test file *** B Change
+First change to merge test file  *** B Change
+ *** B Change
+ *** B Change
